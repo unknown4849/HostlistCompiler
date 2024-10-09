@@ -25,7 +25,7 @@
     "eslint-plugin-import": "^2.29.1",
     "jest": "^29.7.0",
     "mock-fs": "^4.11.0",
-    "nock": "^13.5.4"
+    "nock": "^13.5.5"
   },
   "dependencies": {
     "ajv": "^6.12.6",
@@ -34,7 +34,7 @@
     "better-ajv-errors": "^0.8.2",
     "consola": "^3.2.3",
     "lodash": "^4.17.21",
-    "tldts": "^6.1.30",
+    "tldts": "^6.1.50",
     "yargs": "^17.7.2"
   }
 }
