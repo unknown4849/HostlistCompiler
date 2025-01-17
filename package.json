@@ -30,11 +30,11 @@
   "dependencies": {
     "ajv": "^6.12.6",
     "ajv-errors": "^1.0.1",
-    "axios": "^1.7.7",
+    "axios": "^1.7.9",
     "better-ajv-errors": "^0.8.2",
-    "consola": "^3.2.3",
+    "consola": "^3.4.0",
     "lodash": "^4.17.21",
-    "tldts": "^6.1.71",
+    "tldts": "^6.1.72",
     "yargs": "^17.7.2"
   }
 }
