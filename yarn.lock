@@ -10,7 +10,7 @@
     commander "^11.1.0"
     crypto-js "^4.2.0"
 
-"@adguard/filters-downloader@^2.3.1":
+"@adguard/filters-downloader@^2.4.0":
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@adguard/filters-downloader/-/filters-downloader-2.4.0.tgz#d498698532d35886d0b5fdf1f64c709da70dd21f"
   integrity sha512-xe5C10VXIajq4sr66mb1r64UIlJ54qXZiFpQHe9E7j7LQqRG31b4KB+8TggIdT54Bm3WrKjqjfatKBNYAJcKGQ==
