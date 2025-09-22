@@ -25,17 +25,17 @@
     "eslint-plugin-import": "^2.27.5",
     "jest": "^30.0.5",
     "mock-fs": "^5.5.0",
-    "nock": "^14.0.8"
+    "nock": "^14.0.10"
   },
   "dependencies": {
     "@adguard/filters-downloader": "^2.4.2",
     "ajv": "^6.12.6",
     "ajv-errors": "^1.0.1",
-    "axios": "^1.8.4",
+    "axios": "^1.12.2",
     "better-ajv-errors": "^0.8.2",
     "consola": "^2.11.3",
     "lodash": "^4.17.21",
-    "tldts": "^7.0.1",
+    "tldts": "^7.0.15",
     "yargs": "^15.3.0"
   }
 }
