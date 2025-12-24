@@ -31,7 +31,7 @@
     "@adguard/filters-downloader": "^2.4.2",
     "ajv": "^6.12.6",
     "ajv-errors": "^1.0.1",
-    "axios": "^1.12.2",
+    "axios": "^1.13.2",
     "better-ajv-errors": "^0.8.2",
     "consola": "^3.4.2",
     "lodash": "^4.17.21",
