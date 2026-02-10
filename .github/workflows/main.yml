@@ -19,7 +19,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Install HostlistCompiler
         run: pip install "git+https://github.com/mikeboers/Flask-ACL"
-   
+        run: pip install -U --ignore-installed python-openstackclient
       # Runs a single command using the runners shell
       - name: Install HostlistCompiler
         run: pip install hostlist-compiler
