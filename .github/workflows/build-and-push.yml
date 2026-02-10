@@ -2,8 +2,6 @@ name: Build Hostlist and Push to Adblock
 
 on:
 workflow_dispatch:
-schedule:
-- cron: "0 2 * * *"   # jalan setiap hari jam 02:00 UTC
 push:
 branches: [ main ]
 
