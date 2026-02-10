@@ -39,4 +39,3 @@ steps:
       git add Adguardstylepc.txt
       git commit -m "Auto update Adguardstylepc.txt" || echo "No changes"
       git push
-```
