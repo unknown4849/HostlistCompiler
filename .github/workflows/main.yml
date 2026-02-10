@@ -18,9 +18,9 @@ jobs:
       
       # Runs a single command using the runners shell
       - name: Install HostlistCompiler
-        run: npm install https://github.com/AdguardTeam/HostlistCompiler --force
-                run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
-
+        run: npm install https://github.com/unknown4849/HostlistCompiler --force
 
       # Runs a set of commands using the runners shell
       - name: Build Adguard list
+        run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
+
