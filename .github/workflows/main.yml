@@ -24,3 +24,8 @@ jobs:
       - name: Build Adguard list
         run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
 
+      - name: Create release
+        uses: ncipollo/release-action@v1.20.0
+        with:
+          tag: Adguardstylepc.txt
+          name: Adguardstylepc.txt
