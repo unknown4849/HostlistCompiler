@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@adguard/filters-downloader": "^2.4.2",
-    "ajv": "^6.12.6",
+    "ajv": "^8.18.0",
     "ajv-errors": "^1.0.1",
     "axios": "^1.13.5",
     "better-ajv-errors": "^0.8.2",
